@@ -70,7 +70,9 @@ Usamos Git para el control de versiones. Para conocer las versiones disponibles,
 
 ## Autores
 
-* **Gustavo Sánchez** 
+* **Valeria Guerrero**
+* **Juliana Tulcan**
+* **Alejandra Vallejo** 
 
 
 ## Licencia
