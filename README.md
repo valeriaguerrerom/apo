@@ -1,4 +1,4 @@
-![Logo Java](https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png)
+![Logo Java](https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png) ![Logo eclipse](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/2560px-Eclipse-Luna-Logo.svg.png)
 
 # APO 2: MANEJO DE FUNCIONES
 Un párrafo de la descripción del proyecto va aquí.
