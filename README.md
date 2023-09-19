@@ -71,7 +71,7 @@ Usamos Git para el control de versiones. Para conocer las versiones disponibles,
 ## Autores
 
 * **Valeria Guerrero**
-* **Juliana Tulcan**
+* **Juliana Muñoz**
 * **Alejandra Vallejo** 
 
 
