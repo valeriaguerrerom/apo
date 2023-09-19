@@ -12,7 +12,7 @@ Estas instrucciones le permitirán obtener una copia del proyecto en funcionamie
 Qué cosas necesitas para instalar el software y cómo instalarlas
 
 ```
-Give examples
+Give examples gitclone ruta proyecto
 ```
 
 ### Instalación
