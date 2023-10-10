@@ -11,9 +11,9 @@ Estas instrucciones le permitirán obtener una copia del proyecto en funcionamie
 ### Requisitos previos
 
 Qué cosas necesitas para instalar el software y cómo instalarlas
-
-```
-Give examples gitclone ruta proyecto
+gddbddddd
+`
+Give examples githistoryclone ruta proyecto
 ```
 
 ### Instalación
