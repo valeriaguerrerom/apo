@@ -1,7 +1,7 @@
  ![Logo eclipse](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/2560px-Eclipse-Luna-Logo.svg.png)
 
 # APO 2: CÁLCULO FACTORIAL
-Este proyecto consiste en crear un programa en ECLIPSE que permita la usuario calcular el factorial de un númeroentero positivo.
+Este proyecto consiste en crear un programa en ECLIPSE que permita la usuario calcular el factorial de un númeroentero positivo. 
 Se utilizan condicionales, ciclos y funciones para lograrlo.
 
 ## Empezando
@@ -19,7 +19,9 @@ Give examples githistoryclone ruta proyecto
 ```
 
 ### Instalación
+Para instalar el programa de Eclipse en el ordenador los pasos son:
 
+<<<<<<< HEAD
 Una serie de ejemplos paso a paso que le indican cómo ejecutar un entorno de desarrollo.
 
 Di cuál será el paso. holaaaa
@@ -35,6 +37,16 @@ until finished
 ```
 
 Termine con un ejemplo de cómo sacar algunos datos del sistema o usarlos para una pequeña demostración.
+=======
+1. En el navegador copiamos el siguiente link: https://www.eclipse.org/downloads/
+2. Donde se dirije a la pagina donde se puede descargar Eclipse
+3. Comenzará la descarga. Si marcamos la opción de Abrir al finalizar, la instalación comenzará automáticamente. Sinó accederemos a la carpeta de descargas y hacemos doble click en el archivo .exe que se ha creado.
+4. Elegimos la opción para instalar la versión que necesitamos
+5. Debemos leer y aceptar los términos de licencia de eclipse haciendo click en «Accept Now«.
+6. Cuando termine la instalación ya podemos ejecutar por primera vez eclipse haciendo click en «LAUNCH«.
+  
+  
+>>>>>>> be3801fe2e9ba2fdec5aa5cddc3c2b6b529843ad
 
 ## Ejecutando las pruebas
 
