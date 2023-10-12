@@ -1,8 +1,7 @@
  ![Logo eclipse](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/2560px-Eclipse-Luna-Logo.svg.png)
 
-# APO 2: CÁLCULO FACTORIAL
-Este proyecto consiste en crear un programa en ECLIPSE que permita la usuario calcular el factorial de un númeroentero positivo. 
-Se utilizan condicionales, ciclos y funciones para lograrlo.
+# ALGORITMOS & PROGRAMACIÓN 2
+Este repositorio pretende alojar varios proyectos de ECLIPSE que se han venido desarrollando en las clases de APO2, asi como también proyectos prueba que ayudan en el entendimiento del cálculo diferencial y sus inicios.
 
 ## Empezando
 

@@ -1,4 +1,4 @@
-//CALCULO FACTORIAL APO2
+//CALCULO DERIVADA APO2
 public class CalculoDerivada {
     public static double calcularDerivada(double x, double h) {
         double f_x = f(x);  // Valor de la función en x
