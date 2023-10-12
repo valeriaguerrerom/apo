@@ -11,7 +11,7 @@ Estas instrucciones le permitirán obtener una copia del proyecto en funcionamie
 ### Requisitos previos
 
 
-
+ggg
 Qué cosas necesitas para instalar el software y cómo instalarlas
 gddbddddd
 `
