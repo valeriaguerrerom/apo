@@ -1,8 +1,8 @@
-package ej08;
+package promedioestudiante;
 
 import javax.swing.JOptionPane;
 
-public class Ej08 {
+public class promedioestudiante {
 
 	public static void main(String[] args) {
 		
@@ -26,4 +26,4 @@ public class Ej08 {
 		JOptionPane.showMessageDialog(null, "Promedio: "+prom); 
 		
 	}
-}
+} 
