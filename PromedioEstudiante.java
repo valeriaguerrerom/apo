@@ -4,7 +4,7 @@ package promedioestudiante;
 import javax.swing.JOptionPane;
 
 public class promedioestudiante {
-
+// En este metodo se muestra un cuadro de diálogo
 	public static void main(String[] args) {
 		
 		JOptionPane.showMessageDialog(null, "Ponderación del Estud.");
