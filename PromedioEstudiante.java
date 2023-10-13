@@ -13,7 +13,7 @@ public class promedioestudiante {
 //Se declaran estas variables para calcular la suma de las calificaciones y almacenar el promedio 
 		double suma=0;
 		double prom=0;
-		
+//Se inicia un bucle "for" para ejecutar tres veces (cada calificación)
 		for (int i=0; i<3; i++) {
 			try {
 			    nota[i] = Float.parseFloat(JOptionPane.showInputDialog(null, "Calificación " + (i+1)));
