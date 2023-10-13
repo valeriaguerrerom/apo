@@ -1,6 +1,6 @@
 // Codigo promedioestudiante
 package promedioestudiante;
-
+// Se utiliza para mostrar ventanas de diaologo, entrada y salida de datos 
 import javax.swing.JOptionPane;
 
 public class promedioestudiante {
