@@ -8,7 +8,7 @@ public class promedioestudiante {
 	public static void main(String[] args) {
 		
 		JOptionPane.showMessageDialog(null, "Ponderación del Estud.");
-		
+//Este arreglo se utilizará para almacenar las calificaciones ingresadas por el usuario		
 		float [] nota=new float [3];
 		double suma=0;
 		double prom=0;
