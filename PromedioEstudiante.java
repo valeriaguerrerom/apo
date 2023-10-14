@@ -20,6 +20,7 @@ public class promedioestudiante {
 			    nota[i] = Float.parseFloat(JOptionPane.showInputDialog(null, "Calificación " + (i+1)));
 			    suma+=nota[i];
 			} catch (NumberFormatException e) {
+//Se muestra un cuadro de dialogo con el mensaje indicado 
 			    JOptionPane.showMessageDialog(null, "¡ERROR!\n Ingrese Un Número\n (Entero o Decimal)");
 			    i--;
 			}
