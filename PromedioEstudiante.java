@@ -15,6 +15,7 @@ public class promedioestudiante {
 		double prom=0;
 //Se inicia un bucle "for" para ejecutar tres veces (cada calificación)
 		for (int i=0; i<3; i++) {
+//Se utiliza este arreglo para capturar posibles excepciones
 			try {
 			    nota[i] = Float.parseFloat(JOptionPane.showInputDialog(null, "Calificación " + (i+1)));
 			    suma+=nota[i];
