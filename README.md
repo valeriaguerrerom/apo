@@ -12,7 +12,7 @@ Estas instrucciones le permitirán obtener una copia del proyecto en funcionamie
 Qué cosas necesitas para instalar el software y cómo instalarlas
 
 ```
-Give examples gitclone ruta proyecto
+gitclone ruta proyecto
 ```
 
 ### Instalación
@@ -29,35 +29,23 @@ Para instalar el programa de Eclipse en el ordenador los pasos son:
 
 ## Ejecutando las pruebas
 
-Explicar cómo ejecutar las pruebas automatizadas para este sistema.
+Asegúrate de tener la biblioteca JFreeChart instalada en tu proyecto. Puedes descargarla desde el sitio web de JFreeChart: http://www.jfree.org/jfreechart/download.html.
+
+Crea un nuevo proyecto Java en tu entorno de desarrollo integrado (IDE) preferido, como Eclipse, IntelliJ IDEA o NetBeans.
+
+Agrega la biblioteca JFreeChart a tu proyecto. Esto suele implicar importar los archivos JAR de JFreeChart a tu proyecto.
+
+Luego, crea una clase Java en tu proyecto y pega el código que proporcioné anteriormente en esa clase.
+
+Asegúrate de que la biblioteca JFreeChart esté importada en tu clase
 
 ### Dividir en pruebas de principio a fin
 
-Explique qué prueban estas pruebas y por qué.
+Pruebas de código
 
 ```
-Give an example
+En casi de derivados, sesguir los pasos del código
 ```
-
-### Y pruebas de estilo de codificación.
-
-Explique qué prueban estas pruebas y por qué.
-
-```
-Give an example
-```
-
-## Despliegue (Deployment)
-
-Agregue notas adicionales sobre cómo implementar esto en un sistema en vivo
-
-
-## Construido con
-
-Dropwizard : el marco web utilizado
-Maven - Gestión de dependencias
-ROMA : se utiliza para generar canales RSS
-
 ## Versionado
 
 Usamos Git para el control de versiones. Para conocer las versiones disponibles, consulte las etiquetas en este repositorio .
@@ -75,6 +63,4 @@ Este proyecto tiene la licencia MIT; consulte el archivo LICENSE.md para obtener
 
 ## Expresiones de gratitud (Acknowledgments)
 
-* Un consejo para cualquiera cuyo código se haya utilizado
-* Inspiración
-* etc
+Primeros pasos de ingeniería de sistemas
