@@ -9,5 +9,6 @@ public class AreaCirculo {
         //La variable Math.PI representa el valor de pi, que es una constante matemática aproximadamente igual a 3.14.
         // Este código calcula el área de un círculo dado el radio. El código primero declara una variable para almacenar el radio del círculo
         System.out.println ("El área del círculo es: " + area);
+        //Luego, calcula el área del círculo utilizando la fórmula área = π * radio^2. Finalmente, imprime el área del círculo en la consola.
     }
 }
