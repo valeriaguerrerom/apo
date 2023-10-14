@@ -11,4 +11,6 @@ public class AreaCirculo {
         System.out.println ("El área del círculo es: " + area);
         //Luego, calcula el área del círculo utilizando la fórmula área = π * radio^2. Finalmente, imprime el área del círculo en la consola.
     }
+    //conclusiones 
+    // El codigo java es una herramienta poderosa que se puede utilizar para realizar una variedad de tareas, en este caso el codigo se utilizo para calcular el area de un circulo
 }
