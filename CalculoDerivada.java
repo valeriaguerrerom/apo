@@ -16,5 +16,33 @@ public class CalculoDerivada {
         double h = 0.0001;  // Tamaño del paso
         double derivada = calcularDerivada(x, h);
         System.out.println("La derivada en x=" + x + " es aproximadamente " + derivada);
+
+        import org.jfree.chart.ChartFactory;
+import org.jfree.chart.ChartPanel;
+import org.jfree.chart.JFreeChart;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.chart
+
     }
 }
