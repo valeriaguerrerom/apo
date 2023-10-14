@@ -31,3 +31,4 @@ public class promedioestudiante {
 		
 	}
 } 
+// En resumen este codigo permite al usuario ingresar tres calificaiones, verifica que sean numeros validos y calcula su promedio
