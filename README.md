@@ -9,15 +9,34 @@ Estas instrucciones le permitirán obtener una copia del proyecto en funcionamie
 
 ### Requisitos previos
 
-Qué cosas necesitas para instalar el software y cómo instalarlas
 
-```
-Give examples gitclone ruta proyecto
+ggg
+Qué cosas necesitas para instalar el software y cómo instalarlas
+gddbddddd
+`
+Give examples githistoryclone ruta proyecto
 ```
 
 ### Instalación
 Para instalar el programa de Eclipse en el ordenador los pasos son:
 
+<<<<<<< HEAD
+Una serie de ejemplos paso a paso que le indican cómo ejecutar un entorno de desarrollo.
+
+Di cuál será el paso. holaaaa
+
+```
+Give the example
+```
+
+Y repetir
+
+```
+until finished
+```
+
+Termine con un ejemplo de cómo sacar algunos datos del sistema o usarlos para una pequeña demostración.
+=======
 1. En el navegador copiamos el siguiente link: https://www.eclipse.org/downloads/
 2. Donde se dirije a la pagina donde se puede descargar Eclipse
 3. Comenzará la descarga. Si marcamos la opción de Abrir al finalizar, la instalación comenzará automáticamente. Sinó accederemos a la carpeta de descargas y hacemos doble click en el archivo .exe que se ha creado.
@@ -26,6 +45,7 @@ Para instalar el programa de Eclipse en el ordenador los pasos son:
 6. Cuando termine la instalación ya podemos ejecutar por primera vez eclipse haciendo click en «LAUNCH«.
   
   
+>>>>>>> be3801fe2e9ba2fdec5aa5cddc3c2b6b529843ad
 
 ## Ejecutando las pruebas
 
