@@ -3,17 +3,19 @@
 # ALGORITMOS & PROGRAMACIÓN 2
 Este repositorio pretende alojar varios proyectos de ECLIPSE que se han venido desarrollando en las clases de APO2, asi como también proyectos prueba que ayudan en el entendimiento del cálculo diferencial y sus inicios, se encontrarán los archivos CalculoDerivada.java, Calculofactorial.java, PromedioEstudiante.java areadelcirculo.java, y README.md, el cuál es el archivo existente que servirá como una carta de presentación del proyecto general, a continuación, se presentan los requerimientos del proyecto.
 
-## Empezando
+## 1. Empezando
 
 Estas instrucciones le permitirán obtener una copia del proyecto en funcionamiento en su máquina local para fines de desarrollo y prueba. Consulte implementación para obtener notas sobre cómo implementar el proyecto en un sistema en vivo.
 
-### Requisitos previos
+### 2. Requisitos previos
 
-
-
-Qué cosas necesitas para instalar el software y cómo instalarlas
-
-
+Requisitos Mínimos
+SO: Windows 7 ó posterior.
+Procesador: Intel from 1.2 GHz ó equivilent AMD family.
+Memoria: 4 GB de RAM.
+Gráficos: DirectX 9 compatible Tarjeta gráfica card.
+DirectX: Versión 9.0.
+Almacenamiento: 150 MB de espacio disponible
 ```
 
 ### Instalación
@@ -49,12 +51,3 @@ Usamos Git para el control de versiones. Para conocer las versiones disponibles,
 * **Valeria Guerrero**
 * **Juliana Muñoz**
 * **Alejandra Vallejo** 
-
-
-## Licencia
-
-Este proyecto tiene la licencia MIT; consulte el archivo LICENSE.md para obtener más detalles.
-
-## Expresiones de gratitud (Acknowledgments)
-
-Primeros pasos de ingeniería de sistemas1
