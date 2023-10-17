@@ -9,23 +9,17 @@ Estas instrucciones le permitirán obtener una copia del proyecto en funcionamie
 
 ### Requisitos previos
 
+
+
 Qué cosas necesitas para instalar el software y cómo instalarlas
 
-```
-gitclone ruta proyecto
+
 ```
 
 ### Instalación
 Para instalar el programa de Eclipse en el ordenador los pasos son:
 
-1. En el navegador copiamos el siguiente link: https://www.eclipse.org/downloads/
-2. Donde se dirije a la pagina donde se puede descargar Eclipse
-3. Comenzará la descarga. Si marcamos la opción de Abrir al finalizar, la instalación comenzará automáticamente. Sinó accederemos a la carpeta de descargas y hacemos doble click en el archivo .exe que se ha creado.
-4. Elegimos la opción para instalar la versión que necesitamos
-5. Debemos leer y aceptar los términos de licencia de eclipse haciendo click en «Accept Now«.
-6. Cuando termine la instalación ya podemos ejecutar por primera vez eclipse haciendo click en «LAUNCH«.
-  
-  
+
 
 ## Ejecutando las pruebas
 
