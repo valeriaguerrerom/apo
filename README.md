@@ -63,4 +63,4 @@ Este proyecto tiene la licencia MIT; consulte el archivo LICENSE.md para obtener
 
 ## Expresiones de gratitud (Acknowledgments)
 
-Primeros pasos de ingeniería de sistemas
+Primeros pasos de ingeniería de sistemas1
