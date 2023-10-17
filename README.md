@@ -1,7 +1,7 @@
  ![Logo eclipse](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/2560px-Eclipse-Luna-Logo.svg.png)
 
 # ALGORITMOS & PROGRAMACIÓN 2
-Este repositorio pretende alojar varios proyectos de ECLIPSE que se han venido desarrollando en las clases de APO2, asi como también proyectos prueba que ayudan en el entendimiento del cálculo diferencial y sus inicios, se encontrarán los archivos CalculoDerivada.java, Calculofactorial.java, PromedioEstudiante.java areadelcirculo.java, y README.md, el cuál es el archivo existente que servirá como una carta de presentación del proyecto general.
+Este repositorio pretende alojar varios proyectos de ECLIPSE que se han venido desarrollando en las clases de APO2, asi como también proyectos prueba que ayudan en el entendimiento del cálculo diferencial y sus inicios, se encontrarán los archivos CalculoDerivada.java, Calculofactorial.java, PromedioEstudiante.java areadelcirculo.java, y README.md, el cuál es el archivo existente que servirá como una carta de presentación del proyecto general, a continuación, se presentan los requerimientos del proyecto.
 
 ## Empezando
 
